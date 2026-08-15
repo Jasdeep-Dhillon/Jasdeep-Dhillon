@@ -1,6 +1,5 @@
 ## Hi, I'm Jasdeep 👋
 
-- 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning Rust and optimization for low level programs
 - 👯 I’m looking to collaborate on anything. I'm interested in various technologies and always learning more.
 - 🤔 I’m looking for help with contributing to FOSS projects.
